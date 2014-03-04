@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vjezba01_02_mini_stub", "vjezba01_02_mini_stub\vjezba01_02_mini_stub.vcxproj", "{7DFD393C-5FAE-431E-80F8-06684D948D12}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vjezba01_01_pico_stub", "vjezba01_01_pico_stub\vjezba01_01_pico_stub.vcxproj", "{C865914C-45D2-434B-8375-80883F6439DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFD393C-5FAE-431E-80F8-06684D948D12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DFD393C-5FAE-431E-80F8-06684D948D12}.Debug|Win32.Build.0 = Debug|Win32
+		{7DFD393C-5FAE-431E-80F8-06684D948D12}.Release|Win32.ActiveCfg = Release|Win32
+		{7DFD393C-5FAE-431E-80F8-06684D948D12}.Release|Win32.Build.0 = Release|Win32
+		{C865914C-45D2-434B-8375-80883F6439DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C865914C-45D2-434B-8375-80883F6439DE}.Debug|Win32.Build.0 = Debug|Win32
+		{C865914C-45D2-434B-8375-80883F6439DE}.Release|Win32.ActiveCfg = Release|Win32
+		{C865914C-45D2-434B-8375-80883F6439DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
