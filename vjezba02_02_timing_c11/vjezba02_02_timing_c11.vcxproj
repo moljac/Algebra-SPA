@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7DFD393C-5FAE-431E-80F8-06684D948D12}</ProjectGuid>
+    <ProjectGuid>{FB381EBF-FDFC-406E-9639-2BD389BCD6AD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>vjezba01_02_mini_stub</RootNamespace>
+    <RootNamespace>vjezba02_02_timing_c11</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

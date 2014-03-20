@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7DFD393C-5FAE-431E-80F8-06684D948D12}</ProjectGuid>
+    <ProjectGuid>{F63985C6-00C3-43AA-B246-FFD4D1CD8247}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>vjezba01_02_mini_stub</RootNamespace>
+    <RootNamespace>vjezba02_01_timing</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Zadatak3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

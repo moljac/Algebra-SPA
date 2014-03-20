@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7DFD393C-5FAE-431E-80F8-06684D948D12}</ProjectGuid>
+    <ProjectGuid>{7FA8264E-016E-4490-A38B-CB5F067B8B37}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>vjezba01_02_mini_stub</RootNamespace>
+    <RootNamespace>vjezba01_03_andreicek_original</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -77,6 +77,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="zadatak01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="zadatak01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
