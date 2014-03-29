@@ -1,8 +1,14 @@
-#Algebra-SPA
+# Algebra-SPA 
 
-## Opis
+SPA Strukture Podataka i Algoritmi (Data structures and algorithms)
+
+## Description
 
 Algebra-SPA strukture podataka i algoritmi
 
-1. sdassa
-1. 
+Prefixes used:
+
+1.	vs - Visual Studio 		
+2. 	xs - Xamarin Studio (MonoDevelop)		
+
+
